@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1920"
+   viewBox="0 0 1080 1920"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="story-stats-20230304.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="story.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.36979167"
+     inkscape:cx="667.94366"
+     inkscape:cy="982.98591"
+     inkscape:window-width="2048"
+     inkscape:window-height="1088"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill="#062b58"
+       d="M 0,0 H 1080 V 1870 H 0 Z"
+       fill-rule="evenodd"
+       id="path902"
+       style="stroke-width:0.999997" />
+    <path
+       fill="#e66a49"
+       d="m 0,1870 h 1080 v 50 H 0 Z"
+       fill-rule="evenodd"
+       id="path904"
+       style="stroke-width:1" />
+    <g
+       id="g885"
+       transform="matrix(2.5628967,0,0,2.5582674,141.65108,205.16899)"
+       style="stroke-width:0.390536">
+      <path
+         fill="#e66a49"
+         d="m 74.74292,97.00001 v 0 c 0,-39.13824 32.90436,-70.86602 73.49392,-70.86602 v 0 c 19.49181,0 38.18527,7.46622 51.96806,20.75617 13.78279,13.28994 21.52587,31.315 21.52587,50.10985 v 0 c 0,39.1382 -32.90434,70.866 -73.49393,70.866 v 0 c -40.58956,0 -73.49392,-31.7278 -73.49392,-70.866 z"
+         fill-rule="evenodd"
+         id="path914"
+         style="stroke-width:0.390536" />
+      <text
+         xml:space="preserve"
+         style="font-size:37.3333px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.390536px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="147.72086"
+         y="109.95463"
+         id="text7095"><tspan
+           id="tspan7093"
+           x="147.72086"
+           y="109.95463"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.390536px">22</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:21.3333px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.390536px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="147.72086"
+         y="196.47331"
+         id="text15805"><tspan
+           id="tspan15803"
+           x="147.72086"
+           y="196.47331"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.390536px">COUNTRIES</tspan></text>
+    </g>
+    <g
+       id="g892"
+       transform="matrix(2.5628967,0,0,2.5582674,-721.43804,740.57154)"
+       style="stroke-width:0.390536">
+      <path
+         fill="#e66a49"
+         d="m 411.50609,97.00001 v 0 c 0,-39.13824 32.90436,-70.86602 73.49389,-70.86602 v 0 c 19.49183,0 38.18526,7.46622 51.9681,20.75617 13.78271,13.28994 21.52582,31.315 21.52582,50.10985 v 0 c 0,39.1382 -32.90433,70.866 -73.49392,70.866 v 0 c -40.58955,0 -73.49389,-31.7278 -73.49389,-70.866 z"
+         fill-rule="evenodd"
+         id="path926"
+         style="stroke-width:0.390536" />
+      <text
+         xml:space="preserve"
+         style="font-size:37.3333px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.390536px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="486.224"
+         y="107.26664"
+         id="text10215"><tspan
+           id="tspan10213"
+           x="486.224"
+           y="107.26664"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.390536px">5,460</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:21.3333px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.390536px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="484.71198"
+         y="196.47331"
+         id="text17771"><tspan
+           id="tspan17769"
+           x="484.71198"
+           y="196.47331"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.390536px">ORGANIZATIONS</tspan></text>
+    </g>
+    <g
+       id="g899"
+       transform="matrix(2.5628967,0,0,2.5582674,-1584.5273,1275.9743)"
+       style="stroke-width:0.390536">
+      <path
+         fill="#e66a49"
+         d="m 748.26923,97.00001 v 0 c 0,-39.13824 32.90437,-70.86602 73.49397,-70.86602 v 0 c 19.4918,0 38.1853,7.46622 51.9681,20.75617 13.7828,13.28994 21.5258,31.315 21.5258,50.10985 v 0 c 0,39.1382 -32.9044,70.866 -73.4939,70.866 v 0 c -40.5896,0 -73.49397,-31.7278 -73.49397,-70.866 z"
+         fill-rule="evenodd"
+         id="path930"
+         style="stroke-width:0.390536" />
+      <text
+         xml:space="preserve"
+         style="font-size:37.3333px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.390536px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="821.85919"
+         y="106.96799"
+         id="text12029"><tspan
+           id="tspan12027"
+           x="821.85919"
+           y="106.96799"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.390536px">12,588</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:21.3333px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.390536px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="821.47516"
+         y="196.47331"
+         id="text18771"><tspan
+           id="tspan18769"
+           x="821.47516"
+           y="196.47331"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.390536px">CONTACT POINTS</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:103.949px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#e66a49;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="82.944023"
+       y="156.04349"
+       id="text3259"><tspan
+         sodipodi:role="line"
+         id="tspan3257"
+         x="82.944023"
+         y="156.04349"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:103.949px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#e66a49;fill-opacity:1;stroke:none;stroke-width:0.999999px"
+         dy="0">Govdirectory</tspan></text>
+    <g
+       id="g1071"
+       transform="matrix(1.4279858,0,0,1.4279858,723.60852,-216.35843)"
+       style="fill:#e66a49;fill-opacity:1;stroke-width:2.64675">
+      <path
+         id="path1463"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#e66a49;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64675;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+         d="m 154.73464,235.82369 -5.78809,24.72714 h 49.04287 l 5.7881,-24.72714 z"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-xdpi="56"
+         inkscape:export-ydpi="56" />
+      <path
+         id="path1465"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#e66a49;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64675;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+         d="m 157.13761,192.81752 c -0.0996,0 -0.20069,0.002 -0.30306,0.006 -6.55307,0.25291 -9.34266,2.27057 -9.34266,2.27057 l -0.0187,7.80154 h -0.0312 v 12.9183 10.6064 1.74042 32.38961 l 6.02724,-26.15046 h 42.24446 v -2.82497 h -25.89078 l -1.9323,-5.08403 -18.66346,-0.0643 v -11.25387 c 1.97857,-0.64066 5.34576,-1.52718 8.79037,-1.49988 5.37241,0.0425 6.19928,7.32871 12.75226,7.0758 6.55293,-0.25291 9.34271,-2.27036 9.34271,-2.27036 l 0.0501,-20.71983 c 0,0 -5.20322,2.18332 -10.57558,2.14075 -5.28842,-0.0419 -6.17214,-7.10263 -12.44897,-7.08203 z"
+         sodipodi:nodetypes="scccccccccccccccssccsss"
+         inkscape:export-xdpi="56.00211"
+         inkscape:export-ydpi="56.00211" />
+    </g>
+  </g>
+</svg>
